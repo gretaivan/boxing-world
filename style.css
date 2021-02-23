@@ -1,3 +1,9 @@
 img{
     width:40vw;
 }
+
+td.content-table{
+    border-spacing:0;
+    padding-left: 5px;
+    justify-content:stretch;
+}
